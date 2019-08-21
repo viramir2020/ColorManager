@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Desktop\color\main.dfm=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Desktop\color\main.cpp=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Users\Василий\Desktop\color\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\Василий\Desktop\color\color.cbproj=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Desktop\color\main.h=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.371,C:\Users\Василий\Desktop\color\colorPCH1.h=C:\Users\Василий\Desktop\color\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\Василий\Desktop\color\Project1PCH1.h=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
